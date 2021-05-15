@@ -10,8 +10,7 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: >-
-  https://arlingtonva.s3.amazonaws.com/wp-content/uploads/sites/16/2018/09/arlington_county_board_seal_JPG-1.jpg
+profile_pic: 'https://directory.dayda.org/assets/img/entities/arlington-county-va.png'
 favicon: /assets/img/favicon.png
 url: 'http://arlington-county-va.dayda.org'
 encoding: utf-8
